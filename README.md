@@ -1,6 +1,6 @@
-https://nastyaarkharava.github.io/rsschool-cv/
-
 https://nastyaarkharava.github.io/rsschool-cv/cv
+
+https://nastyaarkharava.github.io/rsschool-cv/
 
 https://nastyaarkharava.github.io/cssBayan/cssBayan/
 
